@@ -18,6 +18,7 @@ A front-end clone of YouTube built using HTML and CSS. This project replicates t
 
 ## Screenshots
 
+<img width="1920" height="917" alt="image" src="https://github.com/user-attachments/assets/9b8137a8-159e-4ee0-9add-fce189cfd8ee" />
 
 
 ## How to Run
